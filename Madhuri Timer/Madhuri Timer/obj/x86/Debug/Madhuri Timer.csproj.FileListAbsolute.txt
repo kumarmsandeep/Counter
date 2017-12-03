@@ -1,0 +1,7 @@
+c:\users\madhuri\documents\visual studio 2010\Projects\Madhuri Timer\Madhuri Timer\bin\Debug\Madhuri Timer.exe
+c:\users\madhuri\documents\visual studio 2010\Projects\Madhuri Timer\Madhuri Timer\bin\Debug\Madhuri Timer.pdb
+c:\users\madhuri\documents\visual studio 2010\Projects\Madhuri Timer\Madhuri Timer\obj\x86\Debug\Madhuri_Timer.Form1.resources
+c:\users\madhuri\documents\visual studio 2010\Projects\Madhuri Timer\Madhuri Timer\obj\x86\Debug\Madhuri_Timer.Properties.Resources.resources
+c:\users\madhuri\documents\visual studio 2010\Projects\Madhuri Timer\Madhuri Timer\obj\x86\Debug\Madhuri Timer.csproj.GenerateResource.Cache
+c:\users\madhuri\documents\visual studio 2010\Projects\Madhuri Timer\Madhuri Timer\obj\x86\Debug\Madhuri Timer.exe
+c:\users\madhuri\documents\visual studio 2010\Projects\Madhuri Timer\Madhuri Timer\obj\x86\Debug\Madhuri Timer.pdb
